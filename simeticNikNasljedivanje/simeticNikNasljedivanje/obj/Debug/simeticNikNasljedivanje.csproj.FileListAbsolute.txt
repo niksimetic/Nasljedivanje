@@ -1,0 +1,6 @@
+C:\Users\Nik\source\repos\simeticNikNasljedivanje\simeticNikNasljedivanje\bin\Debug\simeticNikNasljedivanje.exe.config
+C:\Users\Nik\source\repos\simeticNikNasljedivanje\simeticNikNasljedivanje\bin\Debug\simeticNikNasljedivanje.exe
+C:\Users\Nik\source\repos\simeticNikNasljedivanje\simeticNikNasljedivanje\bin\Debug\simeticNikNasljedivanje.pdb
+C:\Users\Nik\source\repos\simeticNikNasljedivanje\simeticNikNasljedivanje\obj\Debug\simeticNikNasljedivanje.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\simeticNikNasljedivanje\simeticNikNasljedivanje\obj\Debug\simeticNikNasljedivanje.exe
+C:\Users\Nik\source\repos\simeticNikNasljedivanje\simeticNikNasljedivanje\obj\Debug\simeticNikNasljedivanje.pdb
